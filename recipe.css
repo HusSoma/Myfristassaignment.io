@@ -14,5 +14,7 @@ h1{
   text-decoration: underline;
 }
 .body{
-  
+  color:#404040 ;
+  font-size: 11pt
+  font-family: Georgia, Garamond;
 }
