@@ -27,7 +27,7 @@ tooltip{
   position: relative;
   
 }
-teaspoons{
+.teaspoons{
   visibility:hidden;
   width:120px;
   background-color:#000;
@@ -49,7 +49,7 @@ teaspoons{
   z-index:1
 
 }
-.tooltip:hover teaspoons{
+tooltip:hover teaspoons{
    visibility:visible;
   
 }
