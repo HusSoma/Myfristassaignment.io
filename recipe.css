@@ -38,7 +38,7 @@ teaspoons{
   z-index:1
   
 }
-tablespoons{
+.tablespoons{
   visibility:hidden;
   width:120px;
   background-color:#000;
@@ -49,7 +49,7 @@ tablespoons{
   z-index:1
 
 }
-tooltip:hover teaspoons{
+.tooltip:hover teaspoons{
    visibility:visible;
   
 }
