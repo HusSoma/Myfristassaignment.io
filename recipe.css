@@ -22,12 +22,12 @@ em{
   text-decoration: underline;
   
 }
-tooltip{
+.tooltip{
   display: inline-block;
   position: relative;
   
 }
-.teaspoons{
+.text{
   visibility:hidden;
   width:120px;
   background-color:#000;
@@ -49,7 +49,7 @@ tooltip{
   z-index:1
 
 }
-tooltip:hover teaspoons{
+tooltip:hover .text{
    visibility:visible;
   
 }
