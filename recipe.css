@@ -25,7 +25,7 @@ em{
 span{
  visibility: hidden;
 }
-div : hover span
+span : hover div
 {
 visibility: visible;
 }
