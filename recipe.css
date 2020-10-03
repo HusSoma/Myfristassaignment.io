@@ -19,22 +19,15 @@ h1{
   font-size: 30pt; 
   text-decoration: underline;
 }
-em{
-font-weight:bold;
-}
-h2{
-font-weight:bold;
- font-size: 18pt; 
+h4{
+   font-family: italic ;
 }
 .body{
   color:#404040 ;
   font-size: 11pt;
   font-family: Georgia, Garamond;
 }
-h4{
-   font-family: italic ;
-  
-}
+
 .b{
   color:#A4A400  ;
 }
@@ -47,6 +40,14 @@ h4{
 div .a{
    text-align: right;
 }
+em{
+font-weight:bold;
+}
+h2{
+font-weight:bold;
+ font-size: 18pt; 
+}
+
 
 
 
