@@ -5,7 +5,7 @@
   font-size: 22pt; 
 }
 .background {
- background:#F0F0F0  ;
+ background-color:#F0F0F0  ;
   
 }
 .badypage{
@@ -33,7 +33,7 @@ font-weight:bold;
 }
 #ucom{
    font-family: italic ;
-  color: #FFFFA8  ;
+  background-color: #FFFFA8  ;
 }
 
 
