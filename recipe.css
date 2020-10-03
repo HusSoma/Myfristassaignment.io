@@ -49,7 +49,7 @@ em{
   z-index:1
 
 }
-tooltip:hover .text{
+.tooltip:hover .text{
    visibility:visible;
   
 }
